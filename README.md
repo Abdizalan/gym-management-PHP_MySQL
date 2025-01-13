@@ -71,6 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or feedback regarding the GYM Management System, please contact:
-- **Your Name**  
+- **Abdisalam Ibrahim Isack**  
 - **Email:** thiskopa@gmail.com  
 - **GitHub:** (https://github.com/Abdizalan)
